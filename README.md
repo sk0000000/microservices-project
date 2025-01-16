@@ -1,3 +1,5 @@
+##Equipe de developpement:Salma KAMAL && Salma NOUCHTI
+
 # Microservices Project
 
 Ce projet contient plusieurs microservices qui interagissent entre eux via Spring Cloud. Voici une brève description de chaque microservice inclus dans ce projet :
